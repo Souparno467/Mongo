@@ -1,11 +1,12 @@
+#@ author-Souparno
 from flask import Flask, request, jsonify, render_template
 from pymongo import MongoClient
 from bson import ObjectId
 
 app = Flask(__name__)
 client = MongoClient("mongodb+srv://souparnogoswami328:BYJt65cPmlNZWmEH@cluster0.gqurlyd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-db = client["college"]
-students = db["students"]
+db = client["college"]   #database name
+students = db["students"]   #collection name
 
 @app.route('/')
 def home():
@@ -13,7 +14,7 @@ def home():
 
 # Create
 @app.route("/create", methods=["POST"])
-def create_student():
+def create_student():   #checking logic
     if request.is_json:
         body = request.get_json()
 
