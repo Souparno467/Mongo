@@ -9,3 +9,11 @@
 <img width="1760" height="990" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/91e60cdc-6733-4373-bf98-2c0e7508a896" />
 4)DELETE METHOD
 <img width="1760" height="990" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/7735a518-512e-47be-b964-eb0a57f7e015" />
+
+FULL WEB APPLICATION
+
+
+<img width="1760" height="990" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/6942c776-0f04-466b-b9cd-d84b052a1793" />
+<img width="1760" height="990" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/ff737e2c-b95b-48fd-9af0-8990323c09d3" />
+<img width="1760" height="990" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/957e4058-a699-4e51-bc5c-1ab84fbe8d32" />
+<img width="1760" height="990" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/6809dd70-77ba-455a-9913-628bef60e8a4" />
